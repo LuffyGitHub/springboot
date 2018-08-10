@@ -1,5 +1,5 @@
-1¡¢spring boot ÏµÁĞÖ®Ò»£ºspring boot ÈëÃÅ
-2¡¢spring boot ÏµÁĞÖ®¶ş£ºspring boot ÈçºÎĞŞ¸ÄÄ¬ÈÏ¶Ë¿ÚºÅºÍcontextpath
-3¡¢spring boot ÏµÁĞÖ®Èı£ºspring boot ÕûºÏJdbcTemplate
-4¡¢spring boot ÏµÁĞÖ®ËÄ£ºspring boot ÕûºÏJPA
-5¡¢spring boot ÏµÁĞÖ®Îå£ºspring boot Í¨¹ıdevtools½øĞĞÈÈ²¿Êğ
+ï»¿1ã€spring boot ç³»åˆ—ä¹‹ä¸€ï¼šspring boot å…¥é—¨
+2ã€spring boot ç³»åˆ—ä¹‹äºŒï¼šspring boot å¦‚ä½•ä¿®æ”¹é»˜è®¤ç«¯å£å·å’Œcontextpath
+3ã€spring boot ç³»åˆ—ä¹‹ä¸‰ï¼šspring boot æ•´åˆJdbcTemplate
+4ã€spring boot ç³»åˆ—ä¹‹å››ï¼šspring boot æ•´åˆJPA
+5ã€spring boot ç³»åˆ—ä¹‹äº”ï¼šspring boot é€šè¿‡devtoolsè¿›è¡Œçƒ­éƒ¨ç½²
